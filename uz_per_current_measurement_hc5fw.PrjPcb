@@ -204,7 +204,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UJRVDYWO
 
 [Document10]
-DocumentPath=..\..\altium_libraries\user.DbLib
+DocumentPath=..\altium_libraries\user.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,32 +273,32 @@ Variation10=Designator=J6|UniqueId=\CNUFMYFX|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ZC_vv
-Value=0400
+Name=AuthorParam
+Value=Tom Gaupp
 
 [Parameter2]
-Name=ZC_PPP
-Value=008
+Name=Project
+Value=uz_per_current_measurement_hc5fw
 
 [Parameter3]
-Name=ZC_GGG
-Value=004
+Name=ProjectDate
+Value=08/26
 
 [Parameter4]
 Name=ProjectRevision
 Value=01
 
 [Parameter5]
-Name=ProjectDate
-Value=08/26
+Name=ZC_GGG
+Value=004
 
 [Parameter6]
-Name=Project
-Value=uz_per_current_measurement_hc5fw
+Name=ZC_PPP
+Value=008
 
 [Parameter7]
-Name=AuthorParam
-Value=Tom Gaupp
+Name=ZC_vv
+Value=0400
 
 [Configuration1]
 Name=Sources
