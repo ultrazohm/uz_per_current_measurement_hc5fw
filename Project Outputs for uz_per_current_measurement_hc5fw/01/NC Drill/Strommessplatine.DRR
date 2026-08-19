@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Strommessplatine.PcbDoc   19/08/2026  10:05:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to 2V5_OCM
+ASCII RoundHoles File : Strommessplatine.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             188       PTH        40.50inch (1028.59mm)
+T2      20mil (0.5mm)                                             Round             3         PTH        0.13inch (3.20mm)
+T3      28mil (0.711mm)                                           Round             2         PTH        0.09inch (2.36mm)
+T4      35mil (0.9mm)                                             Round             8         PTH        0.71inch (18.08mm)
+T5      39mil (1mm)                                               Round             16        PTH        6.04inch (153.48mm)
+T6      51mil (1.3mm)                                             Round             8         PTH        6.50inch (165.22mm)
+T7      63mil (1.6mm)                                             Round             2         PTH        0.61inch (15.47mm)
+T8      79mil (2mm)                                               Round             16        PTH        12.16inch (308.90mm)
+T9      83mil (2.1mm)                                             Round             4         PTH        11.93inch (303.01mm)
+T10     112mil (2.85mm)                                           Round             4         PTH        12.56inch (319.01mm)
+T11     128mil (3.25mm)                                           Round             2         NPTH       0.45inch (11.43mm)
+T12     134mil (3.4mm)          +/-3mil (0.076mm)                 Round             4         NPTH       18.41inch (467.60mm)
+T13     630mil (16mm)                                             Round             4         NPTH       4.84inch (123.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              261
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 14:19:29 On 05/08/2026
-
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [[No Variations]] of Project [uz_per_current_measurement_hc5fw.PrjPcb]
-   Generated File[BOM_JLC-uz_per_current_measurement_hc5fw.xlsx]
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Strommessplatine.PcbDoc]
+   Generated File[Pick Place for Strommessplatine.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:19:45 On 05/08/2026
+Finished Output Generation At 10:06:08 On 19/08/2026
