@@ -199,7 +199,7 @@ Variation4=Designator=R33|UniqueId=\BDBTCGOC\TSWSVFIK|Kind=1|AlternatePart=
 Variation5=Designator=R34|UniqueId=\BDBTCGOC\BQOETUZZ|Kind=1|AlternatePart= 
 Variation6=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart= 
 Variation7=Designator=R2|UniqueId=\BDBTCGOC\RIJFEXAN|Kind=1|AlternatePart= 
-Variation8=Designator=R30|UniqueId=\BDBTCGOC\QZWCNVJK|Kind=1|AlternatePart= 
+Variation8=Designator=R30|UniqueId=\BDBTCGOC\QZWCNVJK|Kind=0|AlternatePart= 
 Variation9=Designator=J7|UniqueId=\PLRYGUTU|Kind=1|AlternatePart= 
 Variation10=Designator=J6|UniqueId=\CNUFMYFX|Kind=1|AlternatePart= 
 ParamVariationCount=0
