@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 16:01:54 On 07/10/2026
+Start Output Generation At 16:10:27 On 14/10/2026
 
 Output: Pick_Place_JLC
 Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [Strommessplatine.PcbDoc]
+From  : Variant [Default] of PCB Document [Strommessplatine.PcbDoc]
    Generated File[PickPlace_uz_per_current_measurement_hc5fw_01.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:01:56 On 07/10/2026
+Finished Output Generation At 16:10:31 On 14/10/2026

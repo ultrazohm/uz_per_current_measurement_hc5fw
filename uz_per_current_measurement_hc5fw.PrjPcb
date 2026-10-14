@@ -191,7 +191,7 @@ UniqueID=E4E57798-8A8B-4140-A15B-FAEBD34911B9
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=11
 Variation1=Designator=R?|UniqueId=\BDBTCGOC\LBJIPOWJ|Kind=1|AlternatePart= 
 Variation2=Designator=R36|UniqueId=\BDBTCGOC\NGDUBJSF|Kind=1|AlternatePart= 
 Variation3=Designator=R37|UniqueId=\BDBTCGOC\BNRFFTET|Kind=1|AlternatePart= 
@@ -202,6 +202,7 @@ Variation7=Designator=R2|UniqueId=\BDBTCGOC\RIJFEXAN|Kind=1|AlternatePart=
 Variation8=Designator=R30|UniqueId=\BDBTCGOC\QZWCNVJK|Kind=0|AlternatePart= 
 Variation9=Designator=J7|UniqueId=\PLRYGUTU|Kind=1|AlternatePart= 
 Variation10=Designator=J6|UniqueId=\CNUFMYFX|Kind=1|AlternatePart= 
+Variation11=Designator=R2|UniqueId=\BDBTCGOC\UVVFPYVK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -209,6 +210,10 @@ DocumentPath=Project Outputs for uz_per_current_measurement_hc5fw\Pick Place\Pic
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for uz_per_current_measurement_hc5fw\ExportSTEP\Strommessplatine(Default).step
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for uz_per_current_measurement_hc5fw\ExportSTEP\Strommessplatine.step
 DItemRevisionGUID=
 
